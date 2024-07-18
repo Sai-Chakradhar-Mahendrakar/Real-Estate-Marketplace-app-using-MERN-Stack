@@ -1,4 +1,4 @@
-# RealEstate Marketplace
+# RealEstate Marketplace Application 
 
 A full-fledged RealEstate Marketplace built using the MERN stack (MongoDB, Express.js, React, and Node.js).
 
